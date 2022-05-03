@@ -17,7 +17,7 @@
     height: auto;
     padding: 5px;
     display: block;
-    left: 6%;
+    left: calc(100vw - 85vw);
     top: 70%;
   }
 }

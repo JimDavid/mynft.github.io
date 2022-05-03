@@ -145,7 +145,7 @@ body.modal-open {
   #nft-logo-img {
     position: absolute;
     z-index: 0;
-    left: 9.5%;
+    left: calc(100vw - 75vw);
     top: 40%;
     width: 220px;
     height: auto;
